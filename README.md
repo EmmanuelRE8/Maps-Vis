@@ -1,11 +1,10 @@
 # 🗺️ Maps & Vis  
 
-This repository showcases **interactive visualizations and map back-end development** created with **JavaScript + D3.js**, using **MySQL** as the database and integrated into **WordPress**. Wisevoter.com visualizations 
+This repository showcases **interactive visualizations and map back-end development** created with **JavaScript + D3.js**, using **MySQL** as the database and integrated into **WordPress**. [Wisevoter.com](https://wisevoter.com/).  visualizations 
 
 The repo includes:  
 - 🌍 World maps (choropleth and indicators)  
 - 🇺🇸 U.S. maps (state & county level)   
-- 📊 Complementary tables for data exploration  
 
 ---
 
@@ -27,8 +26,6 @@ The repo includes:
 </p>  
 
 **Code:** [`us_map.js`](./code/us_map.js) | [`us_data.sql`](./sql/us_data.sql)  
-
-
 
 ---
 
