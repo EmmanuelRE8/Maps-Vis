@@ -14,7 +14,7 @@ The repo highlights:
 
 **Preview:**  
 <p align="center">
-  <img src="./images/world_map.png" alt="World Map" width="600"/>
+  <img src="./Wisevoter_Map_World.png" alt="World Map" width="600"/>
 </p>  
 
 ---
@@ -23,7 +23,7 @@ The repo highlights:
 
 **Preview:**  
 <p align="center">
-  <img src="./images/us_map.png" alt="US Map" width="600"/>
+  <img src="./Wisevoter_Map_State.png" alt="US Map" width="600"/>
 </p>  
 
 ---
