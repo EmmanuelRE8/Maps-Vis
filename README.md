@@ -1,11 +1,13 @@
 # 🗺️ Maps & Vis  
 
-This repository showcases **interactive visualizations and map back-end development** created with **JavaScript + D3.js**, using **MySQL** as the database and integrated into **WordPress**. [Wisevoter.com](https://wisevoter.com/).  visualizations 
+This repository showcases **interactive visualizations and map back-end development** created with **JavaScript + D3.js**, using **MySQL** as the database and integrated into **WordPress**. Some of the visualizations were created for [Wisevoter.com](https://wisevoter.com/).
 
-The repo includes:  
+I **contributed to the development of these maps** by managing data pipelines, preparing the datasets, and supporting the back-end integration that powers the visualizations.  
+
+The repo highlights:  
 - 🌍 World maps (choropleth and indicators)  
-- 🇺🇸 U.S. maps (state & county level)   
-
+- 🇺🇸 U.S. maps (state & county level)  
+ 
 ---
 
 ## 🌍 World Maps  
@@ -15,7 +17,6 @@ The repo includes:
   <img src="./images/world_map.png" alt="World Map" width="600"/>
 </p>  
 
-**Code:** [`world_map.js`](./code/world_map.js)
 ---
 
 ## 🇺🇸 U.S. Maps  
@@ -25,9 +26,8 @@ The repo includes:
   <img src="./images/us_map.png" alt="US Map" width="600"/>
 </p>  
 
-**Code:** [`us_map.js`](./code/us_map.js) | [`us_data.sql`](./sql/us_data.sql)  
-
 ---
+
 
 ## 🛠️ Tech Stack  
 
@@ -39,5 +39,5 @@ The repo includes:
 ---
 
 ## ⚡ Notes  
-- Screenshots are for portfolio purposes (no sensitive data).  
-- Code references point to the original implementation files included in this repo.  
+- Visualizations are shown for portfolio purposes (anonymized where required).  
+- My contribution focused on **data administration, preparation, and back-end support** for powering these visualizations.  
